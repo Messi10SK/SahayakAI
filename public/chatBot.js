@@ -1,6 +1,6 @@
 (function () {
 
-    const api_Url = ""
+    const api_Url = "https://sahayak-ai-taupe.vercel.app/api/chat"
 
     const scriptTag = document.currentScript;
     const ownerId = scriptTag.getAttribute("data-owner-id")
