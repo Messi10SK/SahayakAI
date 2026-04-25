@@ -15,7 +15,7 @@ SahayakAi is a modern, full-stack SaaS application that enables businesses to de
 - 🎨 **Beautiful UI** - Modern, responsive design with Tailwind CSS and Framer Motion
 - 💾 **MongoDB Database** - Scalable data persistence
 - ⚡ **Real-time Chat** - Fast, seamless customer interactions
-- 🔧 **Customizable** - Configure chatbot behavior per user/organization
+- 🔧 **Customizable** - Configure chatbot behavior as per user/organization
 
 ---
 
